@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to LUANXYZ's Blog"
+title: "Welcome to LUANXZ Blog"
 subtitle: ' "Hello World, Hello Blog"'
 date: 2019-07-28 12:00:00
 author: "LUANXYZ"
