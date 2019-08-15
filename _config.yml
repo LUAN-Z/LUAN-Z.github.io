@@ -1,8 +1,8 @@
 # Site settings
-title: LUAN-Z's Blog
-SEOTitle: 博客 | LUANXYZ's Blog
+title: LUAN-Z Blog
+SEOTitle: 博客 | LUANXYZ Blog
 header-img: img/home-bg.jpg
-email: info.luanz.top
+email: info@luanz.top
 description: ""
 keyword: ""
 url: "https://luan-z.github.io/" # your host, for absolute URL
@@ -10,11 +10,11 @@ url: "https://luan-z.github.io/" # your host, for absolute URL
 
 # SNS settings
 RSS: false
-# weibo_username:     huxpro
-# zhihu_username:     huxpro
+# weibo_username:     xxxx
+# zhihu_username:     xxxx
 github_username: LUAN-Z
-#twitter_username:  huxpro
-# facebook_username:  huxpro
+#twitter_username:  xxxx
+# facebook_username:  xxxx
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -46,10 +46,10 @@ kramdown:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+# ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 # Sidebar settings
 # sidebar: true                           # whether or not using Sidebar.
