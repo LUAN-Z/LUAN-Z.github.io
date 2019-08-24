@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Python 递归函数返回值为 `None`"
+title: "Python 递归函数返回值为 None"
 subtitle: "递归函数无正确返回值"
 date: 2019-08-24 10:20:00
 author: "LUANXYZ"
-header-img: "img/in-post/recursive.png"
+header-img: "img/in-post/recursion.png"
 tags:
   - Python
   - 问题与解决方法
